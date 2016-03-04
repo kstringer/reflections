@@ -14,3 +14,27 @@ staging area is files you are ready to commit.
 logical change?
 
 Use diff to see the changes you are making.
+
+
+4.What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+When implementing large changes you can keep a master branch running while
+working on you testing branch.
+
+
+5.How do the diagrams help you visualize the branch structure?
+
+Can see where branches began/broke off so that you will know which
+features/commits that branch has.
+
+
+6.What is the result of merging two branches together? Why do we represent it in the diagram the way
+we do?
+
+past commits come together.
+
+
+7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro faster, con will have to solve some obvious conflicts.
